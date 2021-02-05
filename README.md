@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <samp>
     :wave: Hi! I <b>imagine</b>, <b>innovate</b>, <b>inspire</b>.
     <br>I am Head Engineer at <b><a href="https://iequations.com/">iEquation TechLabs</a></b>.
-    <br>Mission 2020: -<em>Every Businesses should have technologies<strong>Affordable</strong></em> | <em><strong>Easy to use</strong></em>| <em><strong>Easy to maintain</strong></em>
+    <br>Mission 2020: -<em>Every Businesses should have technologies <strong>Affordable</strong></em> | <em><strong>Easy to use</strong></em>| <em><strong>Easy to maintain</strong></em>
     <br> :heart: <em>Open Source</em> :octocat: <br><br>
   </samp>
 </p>

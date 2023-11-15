@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Ashish Kumar</h1>
 <p align="center">
   <a href="https://twitter.com/ashishu9" target="_blank"><img src="https://img.shields.io/badge/-@ashishu9-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashishu9" width="17%"/></a>
-  <a href="mailto:iashish@iequations.com" target="_blank"><img src="https://img.shields.io/badge/-iashish@iequations.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:iashish@iequations.com" width="25%"/></a>
+ </a>
 
   <!-- <a href="https://medium.com/@ashishu9/" target="_blank"><img src="https://img.shields.io/badge/-@ashishu9-000000?style=flat&labelColor=black&logo=Medium&link=https://medium.com/@ashishu9/" width="16%"/></a> -->
 
@@ -29,9 +29,7 @@ Here are some ideas to get you started:
   <br><br>
   <samp>
     :wave: Hi! I <b>imagine</b>, <b>innovate</b>, <b>inspire</b>.
-    <br>I am Head Engineer in Software.
-    <br>Mission 2022: -<em>Every Businesses should have technologies <strong>Affordable</strong></em> | <em><strong>Easy to use</strong></em>| <em><strong>Easy to maintain</strong></em>
-    <br> :heart: <em>Open Source</em> :octocat: <br><br>
+    <br>I am Technical Lead with 8+ years of experience on Next Gen. Web Technology Worked in multiple domain in the Analysis, Design, Development, Implementation and Support of Services on modern Web applications Experience in Progressive Application Systems, Quality Assurance process and has a strong understanding of Business Application systems and provided recommendations on process improvements. Knowledge in Service Oriented Architecture (SOA) design and Domain Driven Design (DDD). Have conducted Project Presentations and chaired meetings with clients and the various project teams involved.<br>
   </samp>
 </p>
 

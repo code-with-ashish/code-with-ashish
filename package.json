@@ -1,0 +1,19 @@
+{
+  "name": "codewithashish.com",
+  "version": "1.0.0",
+  "description": "CodeWithAshish.com is a comprehensive platform for all your programming needs. Spearheaded by Ashish Kumar, a Technical expert in software engineering with a passion for innovation and open-source, the website showcasing Ashish Kumar's 8+ years of experience in many MNCs.CodeWithAshish.com is your trusted partner in the world of programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-with-ashish/code-with-ashish.git"
+  },
+  "author": "Ashish Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-with-ashish/code-with-ashish/issues"
+  },
+  "homepage": "https://github.com/code-with-ashish/code-with-ashish#readme"
+}

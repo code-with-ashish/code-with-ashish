@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/code-with-ashish/code-with-ashish/blob/main/octa.png" width="30%">
   <br><br>
   <samp>
-    :wave: Hi! I am Ashish Kumar.
+    :wave: Hello! I am Ashish Kumar.
     <br>A Technical Lead with over 8 years of experience in Next Generation Web Technologies. I have worked across multiple domains, specializing in the analysis, design, development, implementation, and support of modern web applications. My expertise lies in Progressive Application Systems and Quality Assurance processes, and I have a robust understanding of Business Application systems. I have successfully driven process improvements and have extensive knowledge in Service Oriented Architecture (SOA) design and Domain Driven Design (DDD). I have also led project presentations and meetings with clients and various project teams.<br>
   </samp>
 </p>

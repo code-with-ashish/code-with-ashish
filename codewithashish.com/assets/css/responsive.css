@@ -1,5 +1,22 @@
-@media only screen and (max-width: 768px)  {
-    #section-1{
-        margin-top: 4em !important;
-    }
+@media only screen and (max-width: 991.9px) {
+  #large-screen {
+    display: none !important;
+  }
 }
+@media only screen and (min-width: 992px) {
+  #tablet-screen {
+    display: none !important;
+  }
+}
+@media only screen and (max-width: 400px) {
+  #section-2 .timeline .card:nth-child(odd)::before {
+    top: -5px;
+    bottom: -5px;
+  }
+}
+/* X-Small devices (portrait phones, less than 576px) */
+/* Small devices (landscape phones, 576px and up) */
+/* Medium devices (tablets, 768px and up) */
+/* Large devices (desktops, 992px and up) */
+/* X-Large devices (large desktops, 1200px and up) */
+/* XX-Large devices (larger desktops, 1400px and up) *//*# sourceMappingURL=responsive.css.map */

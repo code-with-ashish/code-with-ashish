@@ -19,4 +19,12 @@
 /* Medium devices (tablets, 768px and up) */
 /* Large devices (desktops, 992px and up) */
 /* X-Large devices (large desktops, 1200px and up) */
-/* XX-Large devices (larger desktops, 1400px and up) *//*# sourceMappingURL=responsive.css.map */
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media only screen and (max-height: 700px) {
+  .offcanvas .offcanvas-body {
+    overflow-y: scroll !important;
+  }
+  .offcanvas .offcanvas-body .navs {
+    margin-bottom: 2em !important;
+  }
+}/*# sourceMappingURL=responsive.css.map */

@@ -38,3 +38,14 @@
 
 /* XX-Large devices (larger desktops, 1400px and up) */
 @media (min-width: 1400px) {  }
+
+
+
+@media only screen and (max-height: 700px) {
+    .offcanvas .offcanvas-body {
+      overflow-y: scroll !important;
+      .navs{
+          margin-bottom: 2em !important;
+      }
+    }
+  }

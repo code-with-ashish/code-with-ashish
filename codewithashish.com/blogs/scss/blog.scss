@@ -1,0 +1,49 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 11;
+    background: white;
+    margin: 0;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.102);
+    font-weight: 700;
+}
+
+.article-body {
+    margin-top: 5em;
+
+    article {
+        max-width: 700px;
+        min-height: 100vh;
+        margin: auto;
+    }
+
+    .author {
+        .img-author {
+            width: 50px;
+            height: 50px;
+            border-radius: 100px;
+        }
+        a{
+            font-weight: 500;
+        }
+    }
+
+    .intro-img {
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+    h1 {
+        font-weight: 700;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+}
+
+footer{
+    box-shadow: 0 0 10px 0 #0000001a;
+}

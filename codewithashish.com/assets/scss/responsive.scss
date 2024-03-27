@@ -1,0 +1,51 @@
+@media only screen and (max-width: 991.9px)  {
+    #large-screen{
+        display: none !important;
+    }
+}
+@media only screen and (min-width: 992px)  {
+    #tablet-screen{
+        display: none !important;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    #section-2 .timeline .card:nth-child(odd)::before {
+      top: -5px;
+      bottom: -5px;
+    }
+  }
+
+/* X-Small devices (portrait phones, less than 576px) */
+
+@media (max-width: 575.9px) { }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.9px) { }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.9px) { 
+    
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.9px) { 
+    
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.9px){  }
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {  }
+
+
+
+@media only screen and (max-height: 700px) {
+    .offcanvas .offcanvas-body {
+      overflow-y: scroll !important;
+      .navs{
+          margin-bottom: 2em !important;
+      }
+    }
+  }

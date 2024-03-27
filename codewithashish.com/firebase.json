@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "codewithashish.com",
+    "public": "www",
     "ignore": [
       "firebase.json",
       "**/.*",

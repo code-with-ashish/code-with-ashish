@@ -102,7 +102,7 @@ My core expertise lies in the development of Progressive Application Systems and
 - **Stripe SDK** - 3 Years
 - **PayPal SDK** - 2 Years
 - **RazorPay** - 4 Years
-### Other Tools
+### Developer Tools
 - **JIRA** - 8 Years
 - **GIT** - 8 Years
 - **TFS** - 3 Years

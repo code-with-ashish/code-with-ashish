@@ -44,30 +44,83 @@ I am Ashish Kumar, a seasoned Technical Lead with a rich experience of over 8 ye
 My core expertise lies in the development of Progressive Application Systems and the implementation of stringent Quality Assurance processes. I possess a comprehensive understanding of Business Application systems and have been instrumental in driving process improvements. My knowledge extends to the design of Service Oriented Architecture (SOA) and Domain Driven Design (DDD).
 
 ## My Technical Skills
+### Frontend
 - **Angular** - 8 Years
-- **React.JS** - 6 Years
-- **Node.JS** - 7 Years
-- **Express.JS** - 7 Years
-- **Next.JS** - 4.5 Years
-- **Nest.JS** - 3 Years
-- **React Native** - 4.5 Years
+- **React JS** - 6 Years
+- **Stencil JS** - 2 Years
+- **Ionic** - 4 Years
+- **Bootstrap** - 6 Years
+- **Tailwind** - 1 Years
+- **Angular Material** - 4 Years
+- **Three.js** - 2 Years
+### Backend
+- **Node JS** - 7 Years
+- **Express JS** - 7 Years
+- **Next JS** - 4.5 Years
+- **Nest JS** - 3 Years
+- **Feather JS** - 1 Year
+- **.NET Core** - 1 Year
+### Database
 - **MSSQL** - 3 Years
 - **PostgreSQL** - 3 Years
 - **MySQL** - 3 Years
-- **Firebase** - 7 Years
-- **MongoDB** - 2 Years
-- **AWS** - 3.5 Years
-- **DynamoDB** - 3.5 Years
+- **Firebase RTDB** - 7 Years
+- **Firebase Firestore** - 7 Years
+- **MongoDB** - 3 Years
+- **AWS DynamoDB** - 4 Years
+- **Azure CosmosDB** - 1.5 Years
+- **GraphQL** - 3 Years
+### Cloud Platform
+- **AWS** - 4 Years
 - **Google Cloud** - 6 Years
-- **Azure** - 2 Years
-- **CosmosDB** - 2 Years
-- **GraphQL** - 1.5 Years
+- **Azure** - 1.5 Years
+### Mobile App Development
+- **Ionic** - 4 Years
+- **React Native** - 1 Year
+### Real-Time Communication
+- **Socket.io** - 4 Years
+- **Google PUB/SUB** - 1 Years
+### DevOps & Containerization
+- **Kubernetes** - 2 Years
+- **Docker** - 3 Years
+### Messaging & Event Streaming
+- **Cloud Messaging** - 7 Years
+- **MQTT** - 1 Years
+- **RabbitMQ** - 1 Years
 - **Kafka** - 1 Year
-- **Ionic** - 3 Years
-- **Stencil** - 3 Years
-- **Docker** - 3 Year
-- **socket.io** - 3 Year
-- **.NET Core** - 1 Year
+### Auth
+- **OAuth** - 3 Years
+- **JWT** - 8 Years
+- **MSSO** - 3 Years
+- **Facebook SSO** - 6 Years
+- **Google SSO** - 8 Years
+- **Firebase Auth** - 8 Years
+- **MFA** - 1 Years
+### Payment gateway & SDK
+- **Paytm SDK** - 2 Years
+- **UPI** - 3 Years
+- **Stripe SDK** - 3 Years
+- **PayPal SDK** - 2 Years
+- **RazorPay** - 4 Years
+### Developer Tools
+- **JIRA** - 8 Years
+- **GIT** - 8 Years
+- **TFS** - 3 Years
+- **VS Code** - 8 Years
+
+### Core Competency
+- **Technical Leadership**
+- **Project Management**
+- **Agile & Scrum Mastery**
+- **Team Mentoring & Coaching**
+- **Stakeholder Engagement**
+- **Requirement Analysis**
+- **Solution Architecture**
+- **Risk Management**
+- **Process Improvement**
+- **Client Relations & Communication**
+- **Product Lifecycle Management (PLCM)**
+- **Cross-Functional Team Leadership**
 
 ## My Leadership Experience
 I have successfully led project presentations and meetings with clients and various project teams. This has allowed me to demonstrate my strong communication skills and efficient project management abilities.
@@ -77,7 +130,8 @@ I have had the privilege of working with several multinational corporations thro
 - **BigBasket** (Aug 2016 - Mar 2018)
 - **Autodesk** (Apr 2018 - Mar 2021)
 - **Halliburton** (Apr 2021 - Mar 2022)
-- **NSEIT** (Apr 2022 - Present)
+- **NSEIT** (Apr 2022 - Aug 2023)
+- **Marsh McLennan** (Oct 2023 - Present)
 
 Each of these experiences has contributed to my professional growth and has shaped me into the leader I am today.
 

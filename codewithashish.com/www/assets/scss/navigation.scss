@@ -8,6 +8,16 @@
     a.navbar-brand {
         font-weight: 800 !important;
     }
+        .dropdown-menu {
+            background-color: rgba(47, 47, 47, 0.25);
+            border-radius: 25px;
+            .dropdown-item{
+                color: #fff;
+                &:focus, &:hover{
+                    color: #000;
+                }
+            }
+        }
 }
 #large-screen {
     .navbar {

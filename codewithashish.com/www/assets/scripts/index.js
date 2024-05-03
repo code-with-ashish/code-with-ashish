@@ -24,22 +24,34 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     else if (screenWidth>=992){
         sections = document.querySelectorAll("[id*='large-screen'] section");
-        navLi = document.querySelectorAll(".nav-item a");
+        navLi = document.querySelectorAll(".dropdown-menu a");
     }
     const baseUrl1 = (window.location.href).split('#')[0];
     const baseUrl = (window.location.href).split('#')[0].slice(0,baseUrl1.length-1);
+
+    let anchorPoints = [];
+
+    sections.forEach((section) => {
+        const sectionTop = section.offsetTop;
+        //console.log(section.offsetTop, document.documentElement.scrollTop);
+        anchorPoints.push({
+            id: section.getAttribute("id"),
+            top: sectionTop
+        });
+    });
+    console.log(anchorPoints);
+
     window.onscroll = () => {
         let current = "";
-    
-        sections.forEach((section) => {
-            const sectionTop = section.offsetTop;
-            if (window.pageYOffSet || document.documentElement.scrollTop >= sectionTop - 100) {
-                current = section.getAttribute("id");
+
+       anchorPoints.forEach((anchorPoint, index) => {
+        if (document.documentElement.scrollTop+200 >= anchorPoint.top && document.documentElement.scrollTop < anchorPoints[index+1].top) {
+            current = anchorPoints[index].id;
             }
         });
     
         navLi.forEach((a) => {
-        console.log(sections,current)
+        // console.log(sections,current)
 
             a.classList.remove("active");
             if (a.attributes['href'].value === ('#' + current)) {

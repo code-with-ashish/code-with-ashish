@@ -41,7 +41,7 @@
         padding: 0;
         background-color: transparent;
 
-       
+
 
         // .yr-dial {
         //     display: flex;
@@ -57,11 +57,11 @@
         // }
     }
 
-        #core-competency {
-            .form-check-input:checked {
-                background-color: #712cf9;
-                border-color: #712cf9;
-            }
+    #core-competency {
+        .form-check-input:checked {
+            background-color: #712cf9;
+            border-color: #712cf9;
+        }
     }
 }
 
@@ -127,7 +127,7 @@
         }
     }
 
-    #core-competency-mobile{
+    #core-competency-mobile {
         li.list-group-item {
             display: inline-flex !important;
         }

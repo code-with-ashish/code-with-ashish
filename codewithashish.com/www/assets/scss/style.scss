@@ -74,9 +74,7 @@
 
 
 
-    #my-intro1 {
-        // max-height: 85vh;
-
+    #my-intro-mobile {
         .home {
             height: 100vh;
             margin: auto;
@@ -100,7 +98,7 @@
                 background-color: rgba(47, 47, 47, 0.25);
                 border-radius: 25px;
                 padding: 1em;
-                max-width: 90%;
+                max-width: 100%;
                 margin: auto;
                 height: calc(100% - 8em);
             }
@@ -108,12 +106,12 @@
 
     }
 
-    #experience1 {
+    #my-professional-journey-mobile {
         .card {
             background-color: rgba(47, 47, 47, 0.25);
             border-radius: 25px;
             padding: 1em;
-            max-width: 90%;
+            max-width: 100%;
             margin: auto;
             height: calc(100% - 8em);
 
@@ -129,26 +127,10 @@
         }
     }
 
-    #my-skills1 {
-        .card {
-            // background-color: rgba(47, 47, 47, 0.25);
-            border-radius: 25px;
-            padding: 1em;
-            max-width: 90%;
-            margin: 0.2em auto;
-            height: calc(100% - 8em);
-            // max-width: 40em;
-            background-color: rgba(47, 47, 47, 0.25) !important;
-            // margin-bottom: 0.2em !important;
-
-            img {
-                max-height: 30em;
-            }
-
-            .card-body,
-            .card-footer {
-                border-top: 1px solid #252525;
-            }
+    #core-competency-mobile{
+        li.list-group-item {
+            display: inline-flex !important;
         }
     }
+
 }

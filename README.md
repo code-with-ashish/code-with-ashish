@@ -90,6 +90,7 @@ My core expertise lies in the development of Progressive Application Systems and
 - **Kafka** - 1 Year
 ### Auth
 - **OAuth** - 3 Years
+- **Okta**
 - **JWT** - 8 Years
 - **MSSO** - 3 Years
 - **Facebook SSO** - 6 Years

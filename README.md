@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 > A Technical Lead Specializing in Next Generation Web Technologies
 
 ## Who Am I?
-I am Ashish Kumar, a seasoned Technical Lead with a rich experience of over 8 years in the dynamic field of Next Generation Web Technologies. My journey has seen me work across a diverse range of domains, where I have honed my skills in the analysis, design, development, implementation, and support of cutting-edge web applications.
+I am Ashish Kumar, a seasoned Technical Lead with a rich experience of over 9.5+ years in the dynamic field of Next Generation Web Technologies. My journey has seen me work across a diverse range of domains, where I have honed my skills in the analysis, design, development, implementation, and support of cutting-edge web applications.
 
 ## My Areas of Expertise
 My core expertise lies in the development of Progressive Application Systems and the implementation of stringent Quality Assurance processes. I possess a comprehensive understanding of Business Application systems and have been instrumental in driving process improvements. My knowledge extends to the design of Service Oriented Architecture (SOA) and Domain Driven Design (DDD).
 
 ## My Technical Skills
 ### Frontend
-- **Angular** - 8 Years
+- **Angular** - 9.5 Years
 - **React JS** - 6 Years
 - **Stencil JS** - 2 Years
 - **Ionic** - 4 Years
@@ -54,26 +54,26 @@ My core expertise lies in the development of Progressive Application Systems and
 - **Angular Material** - 4 Years
 - **Three.js** - 2 Years
 ### Backend
-- **Node JS** - 7 Years
-- **Express JS** - 7 Years
+- **Node JS** - 9.5 Years
+- **Express JS** - 9.5 Years
 - **Next JS** - 4.5 Years
 - **Nest JS** - 3 Years
 - **Feather JS** - 1 Year
 - **.NET Core** - 1 Year
 ### Database
-- **MSSQL** - 3 Years
-- **PostgreSQL** - 3 Years
-- **MySQL** - 3 Years
-- **Firebase RTDB** - 7 Years
-- **Firebase Firestore** - 7 Years
-- **MongoDB** - 3 Years
+- **MSSQL** - 4 Years
+- **PostgreSQL** - 4 Years
+- **MySQL** - 5 Years
+- **Firebase RTDB** - 9.5 Years
+- **Firebase Firestore** - 9.5 Years
+- **MongoDB** - 4 Years
 - **AWS DynamoDB** - 4 Years
 - **Azure CosmosDB** - 1.5 Years
 - **GraphQL** - 3 Years
 ### Cloud Platform
 - **AWS** - 4 Years
-- **Google Cloud** - 6 Years
-- **Azure** - 1.5 Years
+- **Google Cloud** - 7 Years
+- **Azure** - 2.5 Years
 ### Mobile App Development
 - **Ionic** - 4 Years
 - **React Native** - 1 Year
